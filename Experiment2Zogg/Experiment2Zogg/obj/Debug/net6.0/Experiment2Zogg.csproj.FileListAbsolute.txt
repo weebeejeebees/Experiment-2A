@@ -1,0 +1,15 @@
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2Zogg\Experiment2Zogg\bin\Debug\net6.0\Experiment2Zogg.exe
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2Zogg\Experiment2Zogg\bin\Debug\net6.0\Experiment2Zogg.deps.json
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2Zogg\Experiment2Zogg\bin\Debug\net6.0\Experiment2Zogg.runtimeconfig.json
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2Zogg\Experiment2Zogg\bin\Debug\net6.0\Experiment2Zogg.dll
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2Zogg\Experiment2Zogg\bin\Debug\net6.0\Experiment2Zogg.pdb
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2Zogg\Experiment2Zogg\obj\Debug\net6.0\Experiment2Zogg.csproj.AssemblyReference.cache
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2Zogg\Experiment2Zogg\obj\Debug\net6.0\Experiment2Zogg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2Zogg\Experiment2Zogg\obj\Debug\net6.0\Experiment2Zogg.AssemblyInfoInputs.cache
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2Zogg\Experiment2Zogg\obj\Debug\net6.0\Experiment2Zogg.AssemblyInfo.cs
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2Zogg\Experiment2Zogg\obj\Debug\net6.0\Experiment2Zogg.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2Zogg\Experiment2Zogg\obj\Debug\net6.0\Experiment2Zogg.dll
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2Zogg\Experiment2Zogg\obj\Debug\net6.0\refint\Experiment2Zogg.dll
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2Zogg\Experiment2Zogg\obj\Debug\net6.0\Experiment2Zogg.pdb
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2Zogg\Experiment2Zogg\obj\Debug\net6.0\Experiment2Zogg.genruntimeconfig.cache
+C:\Users\Ethan\Documents\MMCM\OOP\Experiment2Zogg\Experiment2Zogg\obj\Debug\net6.0\ref\Experiment2Zogg.dll
